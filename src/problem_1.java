@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+class problem_1 {
 
     public static double triangle_area_1(double ht, double bs){
         return 0.5*ht*bs;
